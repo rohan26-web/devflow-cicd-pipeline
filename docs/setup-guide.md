@@ -78,8 +78,8 @@ Reading the output: `.` = passed, `F` = failed, `E` = error. A failure prints th
 Configure Git once:
 
 ```powershell
-git config --global user.name "Your Name"
-git config --global user.email "you@example.com"
+git config --global user.name "rohan26-web"
+git config --global user.email "jrohanreddy5@gmail.com"
 git config --global init.defaultBranch main
 ```
 
